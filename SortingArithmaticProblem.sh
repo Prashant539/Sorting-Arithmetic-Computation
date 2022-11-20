@@ -1,5 +1,8 @@
 #!/bin/bash
 
-echo welcome to Sorting Arithmatic Practice Problem
+read -p "Enter first number :" a
+read -p "Enter second number :" b
+read -p "Enter third number :" c
+
 
 
