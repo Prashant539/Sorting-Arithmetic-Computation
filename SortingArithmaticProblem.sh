@@ -10,6 +10,8 @@ x=$((a * b +c))
 echo $x
 y=$((c + a / b))
 echo $y
+z=$((a / b + c))
+echo $z
 
 
 
